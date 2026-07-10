@@ -24,7 +24,8 @@
 
     </p>
 
-    <img src="profile.jpg"
+    <img src="<img width="715" height="715" alt="download (12)" src="https://github.com/user-attachments/assets/62083fdd-1012-493b-8820-32250a51631f" />
+"
 
     alt="html.com"
 
