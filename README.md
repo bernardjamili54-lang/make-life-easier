@@ -1,68 +1,244 @@
 <!DOCTYPE html>
+
 <html>
+
 <head>
-    <title>My Personal Profile Webpage</title>
+
+    <title>Bernardo jamili C.- Multimedia Profile</title>
+
 </head>
+
 <body>
 
-    <h1>Welcome to My Personal Profile</h1>
-    <p>Hi! I'm [bernardo jamili C.]. This webpage shows more about me.</p>
+    <h1>bernardo jamili c.</h1>
+
+    <h2>Personal Information</h2>
+
+    <p>
+
+        My name is Bernardo Jamili C. <br>
+
+        I am a Grade 11 ICT student.<br>
+
+        My birthday is Jan 13.
+
+    </p>
+
+    <img src="profile.jpg"
+
+    alt="My Profile Picture"
+
+    width="250">
+
+    <p>
+
+        This image represents me as a learner and future programmer.
+
+    </p>
 
     <hr>
 
-    <!-- 1. My Hobbies and Interests - Unordered List with square bullets -->
-    <h2>1. My Hobbies and Interests</h2>
-    <ul type="square">
-        <li>Playing Online Games</li>
-        <li>Listening to Music</li>
-        <li>Watching Movies kdrama</li>
-        <li>Reading Books</li>
-        <li>Playing Basketball</li>
+    <h2>About Me</h2>
+
+    <p>
+
+        I always try to improve my coding skills because I want to become a
+
+        About Me
+
+Hi! My name is Bernardo Jamili C. I am a Grade 11 ICT student who is passionate about technology and programming. I enjoy learning new coding skills and improving my knowledge of web development. My goal is to become a successful software engineer.
+      
+
+    </p>
+
+    <h2>My Hobbies and Interests</h2>
+
+    <p>
+
+        These are some of the hobbies and interests that describe me:
+
+    </p>
+
+    <ul>
+
+        <li>Playing online games</li>
+
+        <li> Playing Basketball</li>
+
+        <li>Listen to the music</li>
+
+        <li>Cooking</li>
+
     </ul>
 
-    <hr>
+    <video width="400" controls>
 
-    <!-- 2. My Top 5 Favorite Foods - Ordered List with A, B, C -->
-    <h2>2. My Top 5 Favorite Foods</h2>
+        <source src="hobbyvideo.mp4" type="video/mp4">
+
+    </video>
+
+    <p>
+
+        This video is related to my hobbies and interests because it represents
+
+        one of the activities that I enjoy during my free time.
+
+    </p>
+
+    <h2>My Top 5 Favorite Foods</h2>
+
+    <p>
+
+        Below are my top five favorite foods:
+
+    </p>
+
     <ol type="A">
+
         <li>Adobo</li>
-        <li>Sinigang</li>
-        <li>Pizza</li>
-        <li>Burgers</li>
-        <li>Ice Cream</li>
+
+        <li>Lechon</li>
+
+        <li>Chicken</li>
+
+        <li>Chocolates</li>
+
+        <li>French fries</li>
+
     </ol>
+
+    <h2>My Favorite Things</h2>
+
+    <p>
+
+        I like to sleep, I love the color <b>Blue</b>, and I especially
+
+        <b>love dogs</b>.
+
+    </p>
+
+    <audio controls>
+
+        <source src="favoritesong.mp3" type="audio/mpeg">
+
+    </audio>
+
+    <p>
+
+        This audio represents one of my favorite songs that helps me relax
+
+        and stay motivated.
+
+    </p>
 
     <hr>
 
-    <!-- 3. My Educational Goals - Ordered List starting at 5 -->
-    <h2>3. My Educational Goals</h2>
-    <ol start="5">
-        <li>Graduate Senior High School with Honors</li>
-        <li>Get a Scholarship for College</li>
-        <li>Learn Programming and Web Development</li>
+    <h2>My Educational Goals</h2>
+
+    <p>
+
+        These are some of my educational goals as a learner:
+
+    </p>
+
+    <ol>
+
+        <li>Improve my coding skills.</li>
+
+        <li>Learn more about HTML, CSS, JavaScript, and C#.</li>
+
+        <li>Graduate from Senior High School with good grades.</li>
+
+        <li>Become more confident in programming.</li>
+
     </ol>
 
-    <hr>
+    <h2>My Daily Routine</h2>
 
-    <!-- 4. My Daily Routine - Ordered List with Roman Numerals -->
-    <h2>4. My Daily Routine</h2>
+    <p>
+
+        These are some of the activities I usually do every day:
+
+    </p>
+
     <ol type="I">
-        <li>Wake up at 6:00 AM and pray</li>
-        <li>Go to school and attend classes</li>
-        <li>Do homework and assignments</li>
-        <li>Exercise and spend time with family</li>
-        <li>Sleep at 10:00 PM</li>
+
+        <li>Wake up and prepare for school.</li>
+
+        <li>Attend my classes and participate in lessons.</li>
+
+        <li>Complete my assignments and projects.</li>
+
+        <li>Practice coding or study ICT lessons.</li>
+
+        <li>Relax by playing games, playing basketball, or cooking.</li>
+
+        <li>Sleep early to prepare for the next day.</li>
+
     </ol>
+
+    <h2>My Countdown to Success</h2>
+
+    <p>
+
+        These are the important goals I want to achieve:
+
+    </p>
+
+    <ol reversed>
+
+        <li>Become a successful programmer.</li>
+
+        <li>Finish college successfully.</li>
+
+        <li>Graduate from Senior High School.</li>
+
+    </ol>
+
+    <h2>My Dream Career</h2>
+
+    <p>
+
+        My dream career is to become a <b>Software engineer</b> or
+
+        <b>Web Developer</b>. I want to create useful websites and applications
+
+        that can help people and make their lives easier.
+
+    </p>
+
+    <h2>Fun Facts About Me</h2>
+
+    <p>
+
+        I love helping others, making a lot of friends, and spending time with
+
+        my family. I also enjoy learning new skills and exploring technology.
+
+    </p>
+
+    <h2>My Personal Motto</h2>
+
+    <p>
+
+        <i>"Education opens doors to endless possibilities."</i>
+
+    </p>
 
     <hr>
 
-    <!-- 5. My Countdown to Success - Ordered List with reversed -->
-    <h2>5. My Countdown to Success</h2>
-    <ol reversed>
-        <li>Achieve My Dream Career</li>
-        <li>Finish College</li>
-        <li>Graduate Senior High School</li>
-    </ol>
+    <h2>End of Profile</h2>
+
+    <p>
+
+        Thank you for reading my personal profile!
+
+    </p>
 
 </body>
+
 </html>
+Compose
+Write to Bernardo Jamili
+
+
