@@ -26,7 +26,7 @@
 
     <img src="profile.jpg"
 
-    alt="My Profile Picture"
+    alt="html.com"
 
     width="250">
 
