@@ -3,115 +3,61 @@
 <html>
 
 <head>
-
     <title>Bernardo jamili C.- Multimedia Profile</title>
-
 </head>
 
 <body>
-
     <h1>bernardo jamili c.</h1>
-
     <h2>Personal Information</h2>
-
     <p>
-
         My name is Bernardo Jamili C. <br>
-
         I am a Grade 11 ICT student.<br>
-
         My birthday is Jan 13.
-
     </p>
-
-    <img src=""
+  <img src=""
 "
-
     alt="html.com"
-
     width="250">
-
     <p>
-
         This image represents me as a learner and future programmer.
-
     </p>
-
     <hr>
-
     <h2>About Me</h2>
-
     <p>
-
         I always try to improve my coding skills because I want to become a
-
         About Me
-
-Hi! My name is Bernardo Jamili C. I am a Grade 11 ICT student who is passionate about technology and programming. I enjoy learning new coding skills and improving my knowledge of web development. My goal is to become a successful software engineer.
-      
-
+Hi! My name is Bernardo Jamili C. I am a Grade 11 ICT student who is passionate about technology and programming. I enjoy learning new coding skills and improving my knowledge of web development. My goal is to become a successful software enginer.
     </p>
-
     <h2>My Hobbies and Interests</h2>
-
     <p>
-
         These are some of the hobbies and interests that describe me:
-
     </p>
-
     <ul>
-
         <li>Playing online games</li>
-
         <li> Playing Basketball</li>
-
         <li>Listen to the music</li>
-
         <li>Cooking</li>
-
     </ul>
-
     <video width="400" controls>
-
         <source src="hobbyvideo.mp4" type="video/mp4">
-
     </video>
-
     <p>
-
         This video is related to my hobbies and interests because it represents
-
         one of the activities that I enjoy during my free time.
-
     </p>
-
     <h2>My Top 5 Favorite Foods</h2>
-
     <p>
-
         Below are my top five favorite foods:
-
     </p>
-
     <ol type="A">
-
         <li>Adobo</li>
-
         <li>Lechon</li>
-
         <li>Chicken</li>
-
         <li>Chocolates</li>
-
         <li>French fries</li>
-
     </ol>
-
     <h2>My Favorite Things</h2>
-
     <p>
-
         I like to sleep, I love the color <b>Blue</b>, and I especially
 
         <b>love dogs</b>.
