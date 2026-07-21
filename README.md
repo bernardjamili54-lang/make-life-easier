@@ -59,127 +59,66 @@ Hi! My name is Bernardo Jamili C. I am a Grade 11 ICT student who is passionate 
     <h2>My Favorite Things</h2>
     <p>
         I like to sleep, I love the color <b>Blue</b>, and I especially
-
         <b>love dogs</b>.
-
     </p>
-
     <audio controls>
-
         <source src="favoritesong.mp3" type="audio/mpeg">
-
     </audio>
-
     <p>
-
         This audio represents one of my favorite songs that helps me relax
-
         and stay motivated.
-
     </p>
-
     <hr>
-
     <h2>My Educational Goals</h2>
-
     <p>
-
         These are some of my educational goals as a learner:
-
     </p>
-
     <ol>
-
         <li>Improve my coding skills.</li>
-
         <li>Learn more about HTML, CSS, JavaScript, and C#.</li>
-
         <li>Graduate from Senior High School with good grades.</li>
-
         <li>Become more confident in programming.</li>
-
     </ol>
-
     <h2>My Daily Routine</h2>
-
     <p>
-
         These are some of the activities I usually do every day:
-
     </p>
-
     <ol type="I">
-
         <li>Wake up and prepare for school.</li>
-
         <li>Attend my classes and participate in lessons.</li>
-
         <li>Complete my assignments and projects.</li>
-
         <li>Practice coding or study ICT lessons.</li>
-
         <li>Relax by playing games, playing basketball, or cooking.</li>
-
         <li>Sleep early to prepare for the next day.</li>
-
     </ol>
-
     <h2>My Countdown to Success</h2>
-
     <p>
-
         These are the important goals I want to achieve:
-
     </p>
-
     <ol reversed>
-
         <li>Become a successful programmer.</li>
-
         <li>Finish college successfully.</li>
-
         <li>Graduate from Senior High School.</li>
-
     </ol>
-
     <h2>My Dream Career</h2>
-
     <p>
-
         My dream career is to become a <b>Software engineer</b> or
-
         <b>Web Developer</b>. I want to create useful websites and applications
-
         that can help people and make their lives easier.
-
     </p>
-
     <h2>Fun Facts About Me</h2>
-
     <p>
-
         I love helping others, making a lot of friends, and spending time with
-
         my family. I also enjoy learning new skills and exploring technology.
-
     </p>
-
     <h2>My Personal Motto</h2>
-
     <p>
-
         <i>"Education opens doors to endless possibilities."</i>
-
     </p>
-
     <hr>
-
     <h2>End of Profile</h2>
-
     <p>
-
         Thank you for reading my personal profile!
-
     </p>
 
 </body>
